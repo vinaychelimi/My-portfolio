@@ -47,7 +47,7 @@ export const PROJECTS_DATA: ProjectItem[] = [
         'Smooth page scrolling and section-reveal animations with Framer Motion.',
         'Includes a mock admin panel with charts for a complete full-stack feel.'
     ],
-    link: 'https://vinay-kumar-portfolio-xi.vercel.app/',
+    link: 'https://my-portfolio-steel-psi-93.vercel.app/',
   },
   {
     title: 'The Memories Photography Website',
